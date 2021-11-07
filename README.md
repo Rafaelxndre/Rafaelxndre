@@ -1,8 +1,9 @@
 ## Olá, eu sou o Rafael! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<img align="right" width="250" height="220" style="border-radius:30px;" src="https://static.wixstatic.com/media/a27d24_209415c588e643bc8eb0689d3b1814ea~mv2.gif/v1/fit/w_456,h_320,al_c,q_80/file.jpg" />
+
 ### Sobre mim
-<div style="display: inline_block"  >
-  <img align="right" width="250" height="250" style="border-radius:30px;" src="https://static.wixstatic.com/media/a27d24_209415c588e643bc8eb0689d3b1814ea~mv2.gif/v1/fit/w_456,h_320,al_c,q_80/file.jpg" />
+<div style="display: inline_block"  >  
 <p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 8° semestre. </p>
 <p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, React, AWS e Docker . </p>
 <p> - 💭 Gosto daquilo que me desafia. O fácil nunca me interessou, já o obviamente impossível sempre me atraiu. </p>
