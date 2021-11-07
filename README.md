@@ -30,7 +30,7 @@
   
   ##
   
-  ![Snake animation](https://github.com/rafaelxndre/rafaelxndre/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaelxndre/rafaelxndre/blob/output/github-contribution-grid-snake.svg)
     
 ## Meus contatos :iphone:
     
