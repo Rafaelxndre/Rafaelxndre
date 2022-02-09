@@ -4,7 +4,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >  
-<p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 8° semestre. </p>
+<p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 9° semestre. </p>
 <p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, React, AWS e Docker . </p>
 <p> - 💭 Gosto daquilo que me desafia. O fácil nunca me interessou, já o obviamente impossível sempre me atraiu. </p>
 
